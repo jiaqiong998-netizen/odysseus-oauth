@@ -1,0 +1,15 @@
+{
+  "client_id": "https://jiaqiong998-netizen.github.io/odysseus-oauth/client-metadata.json",
+  "client_name": "Odysseus",
+  "redirect_uris": [
+    "http://localhost:7000/api/mcp/oauth/callback"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none"
+}
